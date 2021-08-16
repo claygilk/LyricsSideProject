@@ -47,3 +47,11 @@ export default {
   }
 }
 </script>
+
+<style scoped>
+li{
+  list-style-type: none;
+  text-align: start;
+  margin: 1em 0 1em 0;
+}
+</style>
